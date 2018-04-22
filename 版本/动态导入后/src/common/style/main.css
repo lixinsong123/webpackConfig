@@ -1,0 +1,10 @@
+body{
+    background: green;
+}
+.ot{
+    background: #675;
+}
+.ot .ac{
+    font-size: 24px;
+    color:white;
+}
